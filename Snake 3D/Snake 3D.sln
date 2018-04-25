@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake 3D", "Snake 3D.csproj", "{972883A3-8E1F-F1CE-362A-6DC95BEEE966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake 3D.Editor", "Snake 3D.Editor.csproj", "{A61309C4-A52B-EA0D-EBC2-0CBF35E92B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972883A3-8E1F-F1CE-362A-6DC95BEEE966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972883A3-8E1F-F1CE-362A-6DC95BEEE966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972883A3-8E1F-F1CE-362A-6DC95BEEE966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972883A3-8E1F-F1CE-362A-6DC95BEEE966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61309C4-A52B-EA0D-EBC2-0CBF35E92B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61309C4-A52B-EA0D-EBC2-0CBF35E92B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61309C4-A52B-EA0D-EBC2-0CBF35E92B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61309C4-A52B-EA0D-EBC2-0CBF35E92B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
